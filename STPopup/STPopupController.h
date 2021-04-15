@@ -194,5 +194,10 @@ typedef NS_ENUM(NSUInteger, STPopupTransitionStyle) {
 - (void)setNavigationBarHidden:(BOOL)navigationBarHidden animated:(BOOL)animated;
 
 @end
+    
+@interface STPopupContainerViewController : UIViewController
+
+@end
+
 
 NS_ASSUME_NONNULL_END
