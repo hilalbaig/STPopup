@@ -50,10 +50,6 @@ static NSMutableSet *_retainedPopupControllers;
 
 @end
 
-@interface STPopupContainerViewController : UIViewController
-
-@end
-
 @implementation STPopupContainerViewController
 
 - (UIStatusBarStyle)preferredStatusBarStyle
